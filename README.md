@@ -1,4 +1,4 @@
-<h1 align="center">Hello Dunijet Lowers 👋 Welcome</h1>
+<h1 align="center">Hey 👋 Welcome</h1>
 <h3 align="center">Here we learn programming deeply and easily together</h3>
 <br>
 
